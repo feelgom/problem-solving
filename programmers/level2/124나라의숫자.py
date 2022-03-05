@@ -1,4 +1,4 @@
-# https://programmers.co.kr/learn/courses/30/lessons/12899
+# https://programmers.co.kr/learn/courses/30/lessons/12899  
 
 def solution(n):
     
@@ -11,3 +11,7 @@ def solution(n):
         
     answer = ("".join(reverseList))[::-1]
     return answer
+
+if __name__ == "__main__":
+    n = 4
+    print(solution(n))
