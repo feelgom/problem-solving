@@ -48,4 +48,3 @@ print("")
 q = deque()
 visit = [False for _ in range(N+1)]
 BFS(graph,visit,v)
-print('')

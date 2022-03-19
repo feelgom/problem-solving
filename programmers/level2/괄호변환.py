@@ -1,3 +1,5 @@
+# https://programmers.co.kr/learn/courses/30/lessons/60058
+
 def reverse(u):
     reverse_ = []
     for char in u:
