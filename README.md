@@ -22,6 +22,7 @@
 - [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839)
 - [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577)
 - [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587)
+- [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583)
 
 ### Level3
 - [추석 트래픽](https://programmers.co.kr/learn/courses/30/lessons/17676)
