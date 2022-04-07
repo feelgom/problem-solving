@@ -24,6 +24,7 @@
 - [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587)
 - [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583)
 - [H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747)
+- [삼각 달팽이](https://programmers.co.kr/learn/courses/30/lessons/68645)
 
 ### Level3
 - [추석 트래픽](https://programmers.co.kr/learn/courses/30/lessons/17676)
