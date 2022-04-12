@@ -27,6 +27,7 @@
 - [삼각 달팽이](https://programmers.co.kr/learn/courses/30/lessons/68645)
 - [예상 대진표](https://programmers.co.kr/learn/courses/30/lessons/12985)
 - [게임 맵 최단거리](https://programmers.co.kr/learn/courses/30/lessons/1844)
+- [순위 검색](https://programmers.co.kr/learn/courses/30/lessons/72412)
 
 ### Level3
 - [추석 트래픽](https://programmers.co.kr/learn/courses/30/lessons/17676)
