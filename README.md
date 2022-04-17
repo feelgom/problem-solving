@@ -30,6 +30,7 @@
 - [순위 검색](https://programmers.co.kr/learn/courses/30/lessons/72412)
 - [모음 사전](https://programmers.co.kr/learn/courses/30/lessons/84512)
 - [후보키](https://programmers.co.kr/learn/courses/30/lessons/42890)
+- [위장](https://programmers.co.kr/learn/courses/30/lessons/42578)
 
 ### Level3
 - [추석 트래픽](https://programmers.co.kr/learn/courses/30/lessons/17676)
