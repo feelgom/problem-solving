@@ -3,9 +3,9 @@
 # -> 정확도 테스트는 모두 통과 but 효율성 테스트 시간초과
 #   아마 query가 최대 10만개이고, 경우에 따라 최대 for문이 24회까지 돌기 때문인 것 같다.
 # -> "-" 이 들어올 것을 고려해서 dic에 "-"를 key로 추가 & dictionary 정의를 for문으로 변경
+# -> dict내 list sorting, numpy 이용한 대소 비교에서 binary search로 변경
 
 
-import numpy as np
 import time
 def solution(info, queries):
     t1 =time.time()

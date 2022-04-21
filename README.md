@@ -31,7 +31,7 @@
 - [모음 사전](https://programmers.co.kr/learn/courses/30/lessons/84512)
 - [후보키](https://programmers.co.kr/learn/courses/30/lessons/42890)
 - [위장](https://programmers.co.kr/learn/courses/30/lessons/42578)
-
+- [괄호 회전하기](https://programmers.co.kr/learn/courses/30/lessons/76502)
 ### Level3
 - [추석 트래픽](https://programmers.co.kr/learn/courses/30/lessons/17676)
 - [N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895)
