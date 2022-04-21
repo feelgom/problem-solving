@@ -32,10 +32,14 @@
 - [후보키](https://programmers.co.kr/learn/courses/30/lessons/42890)
 - [위장](https://programmers.co.kr/learn/courses/30/lessons/42578)
 - [괄호 회전하기](https://programmers.co.kr/learn/courses/30/lessons/76502)
+- [방금그곡](https://programmers.co.kr/learn/courses/30/lessons/17683)
+- [압축](https://programmers.co.kr/learn/courses/30/lessons/17684)
 ### Level3
 - [추석 트래픽](https://programmers.co.kr/learn/courses/30/lessons/17676)
 - [N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895)
 - [이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628)
+
+
 
 ## Baekjoon Online Judge
 ### Greedy Algorithm
