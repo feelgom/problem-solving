@@ -34,6 +34,8 @@
 - [괄호 회전하기](https://programmers.co.kr/learn/courses/30/lessons/76502)
 - [방금그곡](https://programmers.co.kr/learn/courses/30/lessons/17683)
 - [압축](https://programmers.co.kr/learn/courses/30/lessons/17684)
+- [배달](https://programmers.co.kr/learn/courses/30/lessons/12978)
+- [프렌즈4블록](https://programmers.co.kr/learn/courses/30/lessons/17679)
 ### Level3
 - [추석 트래픽](https://programmers.co.kr/learn/courses/30/lessons/17676)
 - [N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895)
