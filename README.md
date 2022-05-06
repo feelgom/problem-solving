@@ -39,6 +39,7 @@
 - [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885)
 - [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842)
 - [스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993)
+- [가장 큰 정사각형 찾기](https://programmers.co.kr/learn/courses/30/lessons/12905)
 ### Level3
 - [추석 트래픽](https://programmers.co.kr/learn/courses/30/lessons/17676)
 - [N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895)
