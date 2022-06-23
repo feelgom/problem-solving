@@ -44,6 +44,11 @@
 - [이진 변환 반복하기](https://programmers.co.kr/learn/courses/30/lessons/70129)
 - [2xn 타일링](https://programmers.co.kr/learn/courses/30/lessons/12900)
 - [3xn 타일링](https://programmers.co.kr/learn/courses/30/lessons/12902)
+- [2016년](https://programmers.co.kr/learn/courses/30/lessons/12901)
+- [피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945)
+- [2개 이하로 다른 비트](https://programmers.co.kr/learn/courses/30/lessons/77885)
+- [교점에 별 만들기](https://programmers.co.kr/learn/courses/30/lessons/87377)
+
 ### Level3
 - [추석 트래픽](https://programmers.co.kr/learn/courses/30/lessons/17676)
 - [N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895)
