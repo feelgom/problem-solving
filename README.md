@@ -48,6 +48,8 @@
 - [피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945)
 - [2개 이하로 다른 비트](https://programmers.co.kr/learn/courses/30/lessons/77885)
 - [교점에 별 만들기](https://programmers.co.kr/learn/courses/30/lessons/87377)
+- [하노이의 탑](https://programmers.co.kr/learn/courses/30/lessons/12946)
+- [올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909)
 
 ### Level3
 - [추석 트래픽](https://programmers.co.kr/learn/courses/30/lessons/17676)
