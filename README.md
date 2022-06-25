@@ -50,6 +50,10 @@
 - [교점에 별 만들기](https://programmers.co.kr/learn/courses/30/lessons/87377)
 - [하노이의 탑](https://programmers.co.kr/learn/courses/30/lessons/12946)
 - [올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909)
+- [숫자의 표현](https://programmers.co.kr/learn/courses/30/lessons/12924)
+- [줄서는 방법](https://programmers.co.kr/learn/courses/30/lessons/12936)
+- [다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911)
+
 
 ### Level3
 - [추석 트래픽](https://programmers.co.kr/learn/courses/30/lessons/17676)
