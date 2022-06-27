@@ -53,6 +53,8 @@
 - [숫자의 표현](https://programmers.co.kr/learn/courses/30/lessons/12924)
 - [줄서는 방법](https://programmers.co.kr/learn/courses/30/lessons/12936)
 - [다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911)
+- [최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939)
+- [N개의 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12953)
 
 
 ### Level3
