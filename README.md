@@ -56,7 +56,7 @@
 - [최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939)
 - [N개의 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12953)
 - [방문 길이](https://programmers.co.kr/learn/courses/30/lessons/49994)
-
+- [영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981)
 
 ### Level3
 - [추석 트래픽](https://programmers.co.kr/learn/courses/30/lessons/17676)
