@@ -58,6 +58,9 @@
 - [방문 길이](https://programmers.co.kr/learn/courses/30/lessons/49994)
 - [영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981)
 - [JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951)
+- [행렬의 곱셈](https://school.programmers.co.kr/learn/courses/30/lessons/12949)
+- [멀리 뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914)
+- [최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941)
 
 ### Level3
 - [추석 트래픽](https://programmers.co.kr/learn/courses/30/lessons/17676)
