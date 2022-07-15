@@ -61,12 +61,12 @@
 - [행렬의 곱셈](https://school.programmers.co.kr/learn/courses/30/lessons/12949)
 - [멀리 뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914)
 - [최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941)
+- [n^2 배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390)
 
 ### Level3
 - [추석 트래픽](https://programmers.co.kr/learn/courses/30/lessons/17676)
 - [N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895)
 - [이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628)
-
 
 
 ## Baekjoon Online Judge
