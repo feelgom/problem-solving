@@ -63,6 +63,7 @@
 - [최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941)
 - [n^2 배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390)
 - [N-Queen](https://school.programmers.co.kr/learn/courses/30/lessons/12952)
+- [큰수만들기](https://programmers.co.kr/learn/courses/30/lessons/42883)
 ### Level3
 - [추석 트래픽](https://programmers.co.kr/learn/courses/30/lessons/17676)
 - [N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895)
