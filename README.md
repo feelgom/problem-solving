@@ -65,6 +65,7 @@
 - [N-Queen](https://school.programmers.co.kr/learn/courses/30/lessons/12952)
 - [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883)
 - [주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341)
+- [주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)
 
 ### Level3
 - [추석 트래픽](https://programmers.co.kr/learn/courses/30/lessons/17676)
