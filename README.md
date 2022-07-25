@@ -66,6 +66,9 @@
 - [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883)
 - [주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341)
 - [주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)
+- [점프와 순간이동](https://school.programmers.co.kr/learn/courses/30/lessons/12980)
+- [캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680)
+- [n진수 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17687)
 
 ### Level3
 - [추석 트래픽](https://programmers.co.kr/learn/courses/30/lessons/17676)
