@@ -2,6 +2,9 @@
 
 ## Programmers
 
+### Level1
+
+- [내적](https://school.programmers.co.kr/learn/courses/30/lessons/70128)
 ### Level2
 
 - [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899)
@@ -69,6 +72,7 @@
 - [점프와 순간이동](https://school.programmers.co.kr/learn/courses/30/lessons/12980)
 - [캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680)
 - [n진수 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17687)
+- [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860)
 
 ### Level3
 - [추석 트래픽](https://programmers.co.kr/learn/courses/30/lessons/17676)
