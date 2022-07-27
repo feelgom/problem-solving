@@ -5,6 +5,8 @@
 ### Level1
 
 - [내적](https://school.programmers.co.kr/learn/courses/30/lessons/70128)
+- [포켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845)
+- [나머지가 1이 되는 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/87389)
 ### Level2
 
 - [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899)
@@ -73,6 +75,7 @@
 - [캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680)
 - [n진수 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17687)
 - [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860)
+- [k진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335)
 
 ### Level3
 - [추석 트래픽](https://programmers.co.kr/learn/courses/30/lessons/17676)
