@@ -7,6 +7,7 @@
 - [내적](https://school.programmers.co.kr/learn/courses/30/lessons/70128)
 - [포켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845)
 - [나머지가 1이 되는 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/87389)
+- [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576)
 ### Level2
 
 - [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899)
