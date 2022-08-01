@@ -118,3 +118,6 @@
 - [미로 탐색](https://www.acmicpc.net/problem/2178)
 - [바이러스](https://www.acmicpc.net/problem/2606)
 - [단지번호붙이기](https://www.acmicpc.net/problem/2667)
+
+
+- [9663_N-Queen](https://www.acmicpc.net/problem/9663)
