@@ -79,6 +79,7 @@
 - [k진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335)
 - [쿼드압축 후 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/68936)
 - [문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057)
+- [조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860)
 
 ### Level3
 - [추석 트래픽](https://programmers.co.kr/learn/courses/30/lessons/17676)
