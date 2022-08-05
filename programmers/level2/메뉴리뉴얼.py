@@ -1,7 +1,6 @@
-import string
-from itertools import combinations
+# https://school.programmers.co.kr/learn/courses/30/lessons/72411
 
-uppers = list(string.ascii_uppercase)
+from itertools import combinations
 
 def solution(orders, course):
     length = [len(order) for order in orders]
@@ -16,16 +15,12 @@ def solution(orders, course):
         if n > max_length:
             break
         orders = [order for order in orders if len(order)>=n]
-        # print(orders)
-        char_set = set()
-        for order in orders:
-            char_set = char_set.union(set(order))
         
-        # print(n, char_set)
-        combi = list(combinations(char_set, n))
-        # print(combi)
+        combi = set()
+        for order in orders:
+            combi = combi | set(combinations(order, n))
 
-        cand = []
+        cand = set()
         max_count = 2
         for com in combi:
             count = 0
@@ -37,16 +32,14 @@ def solution(orders, course):
                     count+=1
             com = list(com)
             com.sort()
-            # print(com)
             tt = "".join(com)
             if count > max_count:
-                cand = [tt]
+                cand = set([tt])
                 max_count = count
             elif count == max_count:
-                cand.append(tt)
+                cand = cand | set([tt])
 
-        print(cand, max_count)
-        answer += cand
+        answer += list(cand)
         
     answer.sort()
     return answer
