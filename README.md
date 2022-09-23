@@ -84,7 +84,7 @@
 - [땅따먹기](https://school.programmers.co.kr/learn/courses/30/lessons/12913)
 - [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)
 - [전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971)
-
+- [두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667)
 
 ### Level3
 - [추석 트래픽](https://programmers.co.kr/learn/courses/30/lessons/17676)
