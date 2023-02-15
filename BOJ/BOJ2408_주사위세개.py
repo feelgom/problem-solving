@@ -7,6 +7,6 @@ elif a==b:
 elif a==c:
     print(1000+100*a)
 elif b==c:
-    print(1000*100*b)
+    print(1000+100*b)
 else:
     print(max(max(a,b),c)*100)
