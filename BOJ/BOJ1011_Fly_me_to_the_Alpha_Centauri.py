@@ -1,14 +1,19 @@
-
-def solution(x,y):
-    distance = y-x
+def min_move(distance):
+    move = 0
+    count = 1
+    count_up = True
+    while distance > 0:
+        distance -= count
+        move += 1
+        count_up = not count_up
+        if count_up:
+            count += 1
     
-
-if __name__ == "__main__":
-    T = 3
-    arr = [[0, 3],
-    [1, 5],
-    [45, 50]]
-    ans = [3,3,4]
-    for i in range(T):
-        x,y = arr[i]
-        print(solution(x,y) == ans[i], solution(x,y))
+    return move
+        
+N=int(input())
+for _ in range(N):
+    start,end = map(int,input().split())
+    
+    ans = min_move(end-start)
+    print(ans)
