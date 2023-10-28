@@ -1,12 +1,12 @@
 N = int(input())
 
-A = [0]+list(map(int,input().split()))+[10000]
+A = [0] + list(map(int,input().split()))+[10000]
 length = [0]*(N+2)
 
-for i in range(N):
-    for j in range(N-i+1,N+2):     
-        if A[j] > A[N-i]:
-            if length[N-i] <= length[j]:
-                length[N-i] = length[j]+1
+for i in range(N+1):
+    for j in range(i):
+        if A[j] < A[i]:
+            if length[i] <= length[j]:
+                length[i] = length[j]+1
                 
-print(max(length))                
+print(max(length))
