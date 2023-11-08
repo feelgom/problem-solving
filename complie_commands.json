@@ -1,0 +1,6 @@
+[{
+  "directory": "/Users/yoonsungji/workspace/b.coding-test",
+  "file": "*/solution.cpp",
+  "output": "a.out",
+  "command": "/usr/bin/clang++ -O2 -std=c++20 -Wall -Weffc++ -fdiagnostics-color=always -I .misc/include"
+}]
